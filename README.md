@@ -18,7 +18,7 @@
   <div class="parallax-layer layer-2"></div>
   <div class="parallax-layer layer-1"></div>
   <div class="logo">
-    <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/24650/logo.svg" alt=""  />
+    <img src="Screenshot 2024-12-08 162742.png" alt="NHOM 6"  />
   </div>
 </div>
 <nav>
